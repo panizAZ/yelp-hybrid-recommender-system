@@ -1,0 +1,1 @@
+This is results for VADER and alpha = 0.9
